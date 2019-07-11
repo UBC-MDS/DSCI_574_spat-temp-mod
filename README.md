@@ -2,16 +2,24 @@
 
 Model fitting and prediction in the presence of correlation due to temporal and/or spatial association. ARIMA models and Gaussian processes.
 
-## Teaching Team
+## Assessments
 
-| Position | Name  | Slack Handle | GHE Handle | Office hours |
-| :------: | :---: | :----------: | :--------: | :----------: |
-| Lecture Instructor | Natalia Nolde | `@nnolde` | `@nnolde` | Wednesday 2:00pm~3:00pm (ESB 3156)
-| Lab Instructor | Rodolfo Lourenzutti | `@lourenzutti` | `@lourenzu` | N/A |
-| Teaching Assistant | Aaron Berk | `@aberk` | `@aberk` | TBD |
-| Teaching Assistant | Emily Mistick |  | `@emilymis` | Wednesday 1:00pm~2:00pm (ESB 1045) |
-| Teaching Assistant | Gunho (Loren) Oh | `@lorengh` | | Fridays 2:00pm~3:00pm (ESB 1045) |
-| Teaching Assistant | Minzhi Liao |  |  | Thursday 12:30~1:30pm (ESB 1045) |
+Labs
+
+| #  | Lab topic   | Due Date |
+|------|-------------| -------|
+| 1 | Use R to perform certain time series analyses including plots, smoothing, decomposition, computation of the sample autocorrelation function, lagging and differencing. | 2019-02-09
+| 2 | Stochastic models for time series: simulation and model selection. | 2019-02-16
+| 3 | Use R to select, fit and forecast based on the ARMA family of time series models. | 2019-03-02
+| 4 | Explore visualization techniques for spatial data (R package gstat). Fit popular variogram models to spatial data; perform prediction using classical kriging. | 2019-03-09
+
+Quizzes
+
+|     | Time | Date | Location |
+|-----|------|------|----------|
+| 1 | 15:00 - 15:30 | 2019-02-27 | In your lab section |
+| 2 | 10:00 - 10:30 | 2019-03-13 | DPM 301 |
+
 
 ## Lecture
 
@@ -26,20 +34,7 @@ Model fitting and prediction in the presence of correlation due to temporal and/
 | 7 | 2019-03-05 | Tue | Chapter 5: Spatial data and spatial processes | 
 | 8 | 2019-03-07 | Thur | Chapter 6: Methods for spatial prediction |
  
-## Labs
 
-| #  | Lab topic   | Due Date |
-|------|-------------| -------|
-| 1 | Use R to perform certain time series analyses including plots, smoothing, decomposition, computation of the sample autocorrelation function, lagging and differencing. | 2019-02-09
-| 2 | Stochastic models for time series: simulation and model selection. | 2019-02-16
-| 3 | Use R to select, fit and forecast based on the ARMA family of time series models. | 2019-03-02
-| 4 | Explore visualization techniques for spatial data (R package gstat). Fit popular variogram models to spatial data; perform prediction using classical kriging. | 2019-03-09
-
-## Quizzes
-|     | Time | Date | Location |
-|-----|------|------|----------|
-| 1 | 15:00 - 15:30 | 2019-02-27 | In your lab section |
-| 2 | 10:00 - 10:30 | 2019-03-13 | DPM 301 |
 
 ## Course Learning Objectives
 
